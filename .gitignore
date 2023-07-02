@@ -1,3 +1,4 @@
 /Project Vids
 *.pdf
 mnist.npz
+.idea
